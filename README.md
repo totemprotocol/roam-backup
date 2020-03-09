@@ -6,7 +6,7 @@ Backups will be generated using Puppeteer and saved into the `backups` folder (`
 
 ## Usage
 
-You can get `roam-backup` up and running in just a few minutes! The best part is that **you don't need to deploy anything!** 
+You can get `roam-backup` up and running in just a few minutes. The best part is that **you don't need to deploy anything!** 
 
 Just follow these steps and you'll be on your way:
 
