@@ -43,6 +43,7 @@ Go to your Github repository's Settings tab, and click on Secrets section on the
 _Don't worry! Your Roam and AWS credentials will be secure. GitHub [Secrets](https://help.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) are encrypted, and provide a convenient methodology for storing secure data in repositories._
 
 #### 5. Make a commit. It can be any commit, but this will start the process and trigger workflows.
+In a meta move, here's a commit.
 
 Congrats! 🎉 You've successfully automated the backup of your brain 🧠. Now go write about it in today's Daily Note!
 
